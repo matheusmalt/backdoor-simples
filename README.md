@@ -1,1 +1,1 @@
-Backdoor simples para fins dadáticos
+Backdoor simples para fins didáticos
